@@ -1,4 +1,4 @@
 # LE-CARRE-CATAR
 "LE CARRE CATAR" Livre mystérieusement illustré, offre une large synthèse de l'interaction entre l'univers absolu radical et notre univers relatif. C'est une compréhension des codes, des symboliques et des archétypes exprimés dans notre JEu. Enfin l'apocalypse peut permettre au libéré, d'arrêter de tenir à la terre rattaché, "CATAR ARETA TENET ATERA RATAC". Ce contenu propre à une réflexion individuelle, est aussi la base référentielle d'un développement détaillé dans le livre "Le Divin par MINOU". Ces ouvrages complémentaires sont destinés à tous les amoureux, désireux de retrouver une vie parfaite éternelle avec leur moitié, et leurs semblables.
 
-
+![Couverture-LE-CARRE-CATAR](https://github.com/QuatreCATAR/Catar-modeles-schemas-images/blob/main/Catar-11-couverture-livres/Le%20carr%C3%A9%20catar.jpg)
